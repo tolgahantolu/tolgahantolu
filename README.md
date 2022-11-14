@@ -2,7 +2,7 @@
 Hi, I'm Tolgahan. Frontend Developer / React.js Developer
 
 - 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Next.js / PHP
+- 🌱 I’m currently learning Next.js / Node.js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tolgahant/"> linkedin.com/in/tolgahant/ </a>
 - ⚡ Fun fact: I recall the name of almost every person I met in the past. 😀
 
