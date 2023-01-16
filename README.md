@@ -16,7 +16,7 @@ Hi, I'm Tolgahan. Frontend Developer / React.js Developer
 <img align="left" width="30" height="30" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
 
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"/>
-<img align="left" width="30" height="30" src="https://w7.pngwing.com/pngs/449/928/png-transparent-apollo-graphql-hd-logo-thumbnail.png"/>
+<img align="left" width="30" height="30" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
 <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png"/>
