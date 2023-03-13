@@ -4,7 +4,6 @@ Hi, I'm Tolgahan. Frontend Developer / React.js Developer
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Next.js / Node.js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tolgahant/"> linkedin.com/in/tolgahant/ </a>
-- ⚡ Fun fact: I recall the name of almost every person I met in the past. 😀
 
 ## Tech I Use
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
