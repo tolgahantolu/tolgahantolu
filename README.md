@@ -6,14 +6,12 @@ Hi, I'm Tolgahan. Frontend Developer / ReactJS Developer
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tolgahant/"> linkedin.com/in/tolgahant/ </a>
 
 ## Tech I Use
-<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/>
 <img align="left" width="30" height="30" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"/>
-
+<img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=48"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"/>
 <img align="left" width="30" height="30" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
@@ -22,7 +20,7 @@ Hi, I'm Tolgahan. Frontend Developer / ReactJS Developer
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img align="left" width="30" height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-
+<img align="left" width="30" height="30" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"/>
 <img align="left" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
 
 
