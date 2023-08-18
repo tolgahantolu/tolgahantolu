@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Tolgahan. Frontend Developer / ReactJS Developer
+Hi, I'm Tolgahan. Jr. Javascript Developer
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning NextJS / NodeJS
