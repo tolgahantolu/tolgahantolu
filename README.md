@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there, nice to see you 👋
 Hi, I'm Tolgahan. Jr. Javascript Developer
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning NextJS / NodeJS
+- 🔭 My main goal is to become a Full-stack Javascript developer
+- 🔥 My superpower is Javascript (NextJS & NodeJS)
+- ⚡ In my free time, I love to read about design patterns and software architecture
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tolgahant/"> linkedin.com/in/tolgahant/ </a>
 
 ## Technologies that I experienced before
