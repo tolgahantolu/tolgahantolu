@@ -1,5 +1,5 @@
 ## Hi there, nice to see you 👋
-Hi, I'm Tolgahan. Jr. Javascript Developer
+Hi, I'm Tolgahan. I'm Jr. Javascript Developer
 
 - 🔭 My main goal is to become a Full-stack Javascript developer
 - 🔥 My superpower is Javascript (NextJS & NodeJS)
